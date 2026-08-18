@@ -2,12 +2,7 @@
 
 # Hi there, I'm Sneakysen! 👋
 
-### About Me
-<div align="center">
-
-# 👋 Hello, I'm Eddie Jaoude
-
-### 💻 Full Stack Developer · Open Source · DevRel
+ · Open Source · DevRel
 
 <img
   src="https://api.dicebear.com/9.x/adventurer/svg?seed=github-anime"
@@ -74,36 +69,6 @@ I love turning ideas into projects and helping people discover the power of Open
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</div>
-
----
-
-## ⭐ GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
 ---
 
 ## 🛠️ Technologies
@@ -135,7 +100,7 @@ I love turning ideas into projects and helping people discover the power of Open
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sneakysen)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Telegram](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://t.me/Sneakysen)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sneakysen)
 
 </div>
 
