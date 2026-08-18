@@ -48,11 +48,7 @@ I love turning ideas into projects and helping people discover the power of Open
 
 <td width="45%" align="center">
 
-<img
-  src="./me.png" alt="me.png"
-  width="220"
-  alt="Anime Developer"
-/>
+<img src="./me.png" alt="me.png" width="200">
 
 </td>
 </tr>
