@@ -8,12 +8,6 @@
 
  · Open Source · DevRel
 <br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/eddiejaoude?style=for-the-badge&logo=github&label=Followers)](https://github.com/eddiejaoude)
-[![YouTube](https://img.shields.io/badge/YouTube-142K-red?style=for-the-badge&logo=youtube)](https://youtube.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-3.4K-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/)
-[![GitHub Stars](https://img.shields.io/github/stars/eddiejaoude?style=for-the-badge&logo=github)](https://github.com/eddiejaoude)
-
 </div>
 
 ---
@@ -106,11 +100,5 @@ I love turning ideas into projects and helping people discover the power of Open
 ### ⭐ Thanks for visiting!
 
 **If you find my projects useful, consider giving them a star!**
-
-<img
-  src="https://api.dicebear.com/9.x/adventurer/svg?seed=anime-dev-2026"
-  width="100"
-  alt="Anime Character"
-/>
 
 </div>
