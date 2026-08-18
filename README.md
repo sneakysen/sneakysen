@@ -2,7 +2,7 @@
 # Hi there, I'm Sneakysen! 👋
 
 <p align="center">
-  <img src="./welcome-to-my-profile.png" alt="welcome-to-my-profile" width="400">
+  <img src="./welcome-to-my-profile.png" alt="welcome-to-my-profile" width="600">
 </p>
 
  · Open Source · DevRel
