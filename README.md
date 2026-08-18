@@ -71,19 +71,6 @@ I love turning ideas into projects and helping people discover the power of Open
 
 ---
 
-## 📈 GitHub Contributions
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=eddiejaoude&theme=tokyo-night&hide_border=true"
-  width="95%"
-/>
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
