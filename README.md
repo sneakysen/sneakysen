@@ -49,7 +49,7 @@ I love turning ideas into projects and helping people discover the power of Open
 <td width="45%" align="center">
 
 <img
-  src="https://api.dicebear.com/9.x/adventurer/svg?seed=developer-anime"
+  src="https://wallpapers.com/wallpapers/straw-hat-pirates-sicfi11ou1u21jsv.html"
   width="220"
   alt="Anime Developer"
 />
