@@ -7,14 +7,6 @@
 </p>
 
  · Open Source · DevRel
-
-<img
-  src="https://api.dicebear.com/9.x/adventurer/svg?seed=github-anime"
-  width="180"
-  height="180"
-  alt="Anime Avatar"
-/>
-
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/eddiejaoude?style=for-the-badge&logo=github&label=Followers)](https://github.com/eddiejaoude)
