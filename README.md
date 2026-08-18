@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi there, I'm Sneakysen! 👋
 
@@ -35,8 +34,9 @@
 
 I'm passionate about:
 
-- 💻 Full-stack development
 - 🌎 Open Source
+- 📱 AOSP
+- ❤️ Custom ROM and MODDS
 - 🧑‍💻 Developer Relations
 - 🎥 Developer content
 - 🚀 Building communities
