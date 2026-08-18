@@ -49,7 +49,7 @@ I love turning ideas into projects and helping people discover the power of Open
 <td width="45%" align="center">
 
 <img
-  src="https://wallpapers.com/wallpapers/straw-hat-pirates-sicfi11ou1u21jsv.html"
+  src="./me.png" alt="me.png"
   width="220"
   alt="Anime Developer"
 />
